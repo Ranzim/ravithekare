@@ -264,6 +264,7 @@ font-family: 'Source Serif 4', sans-serif;
     left: 0;
     right: 0;
     z-index: 1;
+    height: 100vh;
 }
 
 #hero .hero-container {
