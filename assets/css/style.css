@@ -250,7 +250,7 @@ font-family: 'Source Serif 4', sans-serif;
 
 #hero {
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     background: url("../img/baa.jpg") top center;
     background-size: cover;
 }
